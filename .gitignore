@@ -1,0 +1,5 @@
+config.json
+# Capturi de ecran
+*.png
+*.jpg
+screenshots/
